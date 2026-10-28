@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background: #333;
+  background: #2c5f8a;
   color: #fff;
   padding: 1rem 2rem;
 }
@@ -18,6 +18,20 @@ header a {
 
 main {
   padding: 2rem;
+}
+
+button {
+  background: #2c5f8a;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #23496a;
 }
 
 footer {
