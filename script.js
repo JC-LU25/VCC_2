@@ -1,5 +1,5 @@
 // greet button on the home page
-const btn = document.getElementById('greet-btn');
+const btn = document.getElementById('greetBtn');
 const out = document.getElementById('greeting');
 
 btn.addEventListener('click', () => {
