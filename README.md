@@ -4,3 +4,9 @@ Assignment 2 repo. A small two-page site used to practice the Git workflow:
 issues, branches, pull requests, code review, and merges.
 
 Open `index.html` in a browser to see it.
+
+## What I practiced
+
+- Creating issues for enhancements and a bug
+- Branching off main, making changes, and opening pull requests
+- Reviewing and merging PRs, then pulling main to stay in sync
