@@ -40,6 +40,16 @@ footer {
   color: #666;
 }
 
+.contact {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+}
+
+.contact a {
+  color: #23496a;
+}
+
 header a:hover {
   color: #ffd166;
   text-decoration: none;
